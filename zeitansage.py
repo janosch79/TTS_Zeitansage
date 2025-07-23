@@ -13,7 +13,7 @@ BEEP_FREQUENCY = 500 # Frequenz des Beep-Tons in Hz
 BEEP_DURATION_SECONDS = 0.2 # Dauer eines einzelnen Beep-Tons
 
 # Zeitansage-Zyklus:
-UPDATE_INTERVAL_SECONDS = 20 # Zeitintervall zwischen dem Beginn der Ansagen (erhöht für 3 Sprachen)
+UPDATE_INTERVAL_SECONDS = 15 # Zeitintervall zwischen dem Beginn der Ansagen (erhöht für 3 Sprachen)
 COUNTDOWN_BEATS = 5 # Anzahl der Beeps vor der Hauptansage
 BEEP_CYCLE_INTERVAL = 1.0 # Zeit zwischen den Beep-Beginnen (1 Sekunde für "jede Sekunde")
 INTER_LANGUAGE_SILENCE_SECONDS = 0.75 # Pause zwischen den verschiedenen Sprachansagen
